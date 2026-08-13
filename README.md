@@ -1,3 +1,5 @@
+# Atlantic Haven Hotels - Prédiction d'annulation de réservation
+# Hackaton ML & M1 ISPM
 ##  En-tête institutionnel et Identification
 
 ### 1. Lien hypertexte vers le site officiel de l'institut :
@@ -17,6 +19,9 @@ https://ispm-edu.com
 |Razafimanantsoa Betina					  |	   23		| ESIIA 4 | 			          |
 | TANG Fakanah Randy                              | 	   27	      | ESIIA 4 | 		                |
 | LEONARD Jamaviston Lucas                        | 	   36	      | ESIIA 4 |                                 |
+
+## Objectif
+Prédire `reservation_annulee` (0 = maintenue, 1 = annulée), fournir une probabilité et une décision binaire, et maximiser le **F1-score** sur la classe « annulation », tout en respectant l'ordre temporel des données.
 
 ## Etape 1: EDA et préparation
 
