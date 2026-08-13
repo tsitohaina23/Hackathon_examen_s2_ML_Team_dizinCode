@@ -186,3 +186,6 @@ Les principaux hyperparamètres pouvant être optimisés sont notamment :
 ### Gradient Boosting
 
 Les modèles de type Gradient Boosting Machine (GBM) constituent également une piste envisagée pour améliorer les performances par rapport à la baseline.
+
+## Lien vidéo:
+--> https://drive.google.com/file/d/1ES2QsNnhZlTY_h8pVdISUYx_Un7HvD_r/view?usp=drivesdk
