@@ -1,4 +1,4 @@
-## - Section 1 : En-tête institutionnel et Identification
+##  En-tête institutionnel et Identification
 
 ### 1. Lien hypertexte vers le site officiel de l'institut :
 https://ispm-edu.com
@@ -17,3 +17,20 @@ https://ispm-edu.com
 |Razafimanantsoa Betina					  |	   23		| ESIIA 4 | 			          |
 | TANG Fakanah Randy                              | 	   27	      | ESIIA 4 | 		                |
 | LEONARD Jamaviston Lucas                        | 	   36	      | ESIIA 4 |                                 |
+
+## Etape 1: EDA et préparation
+
+
+## Etape 2: Baseline Obligatoire
+
+
+## Etape 3: Validation et modelisation
+
+
+## Etape 4: Featuring Engineering
+
+
+## Etape 5: Interpretation et erreur
+
+
+## Etape 6: Soumission
